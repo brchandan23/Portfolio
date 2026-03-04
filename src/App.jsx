@@ -20,7 +20,7 @@ function PageLoader({ hidden }) {
     return (
         <div className={`page-loader ${hidden ? 'hidden' : ''}`}>
             <div className="loader-content">
-                <div className="loader-logo">Compiling creativity…</div>
+
                 <br />
                  <div className="loader-logo">Initializing portfolio…</div>
                  <br />
